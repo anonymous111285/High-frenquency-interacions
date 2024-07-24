@@ -1,0 +1,37 @@
+{
+    "token0": {
+        "address": "0x0000000000b3f879cb30fe243b4dfee438691c04",
+        "address_label": "Gastoken.io (GST2)",
+        "name": "Gastoken.io",
+        "symbol": "GST2",
+        "decimals": "2",
+        "logo": "https://logo.moralis.io/0x1_0x0000000000b3f879cb30fe243b4dfee438691c04_f7757404d3cf4e54a45afb8f8d6ad34c",
+        "logo_hash": "8e251e52894e17527fc82c0917d62f71b5c518e82f8b9979b193f6dfaf5a431a",
+        "thumbnail": "https://logo.moralis.io/0x1_0x0000000000b3f879cb30fe243b4dfee438691c04_f7757404d3cf4e54a45afb8f8d6ad34c",
+        "total_supply": "247244",
+        "total_supply_formatted": "2472.44",
+        "block_number": "0",
+        "validated": 0,
+        "created_at": "2017-09-19T23:54:47.000Z",
+        "possible_spam": true,
+        "verified_contract": false
+    },
+    "token1": {
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "address_label": "Wrapped Ether",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": "18",
+        "logo": "https://logo.moralis.io/0x1_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_018112a9229b4bf1bf0d042beb7c2c55",
+        "logo_hash": "0a7fc292596820fe066ce8ce3fd6e2ad9d479c2993f905e410ef74f2062a83ec",
+        "thumbnail": "https://logo.moralis.io/0x1_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_018112a9229b4bf1bf0d042beb7c2c55",
+        "total_supply": "2925164800328939194383388",
+        "total_supply_formatted": "2925164.800328939194383388",
+        "block_number": "19917914",
+        "validated": 1,
+        "created_at": "2017-12-12T11:17:35.000Z",
+        "possible_spam": false,
+        "verified_contract": true
+    },
+    "pairAddress": "0x27c64bdca05d79f6ee32c3e981dc5153d9d794cd"
+}

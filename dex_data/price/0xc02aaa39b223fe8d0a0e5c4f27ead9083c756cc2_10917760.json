@@ -1,0 +1,22 @@
+{
+    "tokenName": "Wrapped Ether",
+    "tokenSymbol": "WETH",
+    "tokenLogo": "https://logo.moralis.io/0x1_0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2_018112a9229b4bf1bf0d042beb7c2c55",
+    "tokenDecimals": "18",
+    "nativePrice": {
+        "value": "1000000000000000000",
+        "decimals": 18,
+        "name": "Ether",
+        "symbol": "ETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    },
+    "usdPrice": 334.5392356007727,
+    "usdPriceFormatted": "334.539235600772716476",
+    "exchangeName": "Uniswap v2",
+    "exchangeAddress": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
+    "tokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "toBlock": "10917760",
+    "priceLastChangedAtBlock": "10917760",
+    "possibleSpam": false,
+    "verifiedContract": true
+}
